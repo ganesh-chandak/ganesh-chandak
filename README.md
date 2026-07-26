@@ -15,8 +15,7 @@
 <br/><br/>
 
 <!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Kairo:+Ask+a+question,+get+an+answer+from+your+data;From+SQL+and+dashboards+to+one+conversation" />
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=120&lines=AI+Engineer+%7C+Builder+%7C+Founder;Automation+for+Operations+and+Analytics;Currently+building+Kairo" />
 <!-- Animated Wave Divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:162033,100:1F6FEB&height=60&section=wave" width="100%"/>
 </div>
@@ -33,11 +32,11 @@
 
 I'm building **Kairo** — an Operational AI that investigates, reasons, and answers across your data, docs, and workflows. No more switching between SQL, Slack, dashboards, and documents.
 
-**Previously:** Analytics Engineer at scale | **Now:** Building the future of operational intelligence
+**Analytics Engineer** turned **founder**. Building AI that learns how organizations work.
 
 ---
 
-## 🚀 Products I've Built
+## Things I've Built
 
 <table>
 <tr>
@@ -66,7 +65,7 @@ Kairo does it all in one conversation.
 </td>
 <td width="50%" valign="top">
 
-### 📷 [Visuale](https://github.com/ganesh-chandak) `LAUNCHED`
+### 📷 [Visuale](https://github.com/ganesh-chandak) `IN PROGRESS`
 
 **AI-powered visual notebook.**
 
