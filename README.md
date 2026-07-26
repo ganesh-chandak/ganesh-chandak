@@ -190,13 +190,12 @@ Most business problems aren't actually hard. They're just spread across too many
 
 <div align="center">
 
-| Area | Interest Level |
-|------|----------------|
-| 🤖 Multi-Agent Systems | ██████████░ 90% |
-| 🧠 AI Memory & Context | ██████████░ 85% |
-| 🔗 MCP Ecosystem | ████████░░ 80% |
-| 🕸️ Knowledge Graphs | ███████░░░ 70% |
-| 🔄 Autonomous Workflows | █████████░ 88% |
+<img src="https://img.shields.io/badge/🤖_Multi--Agent_Systems-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧠_AI_Memory_&_Context-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔗_Model_Context_Protocol_(MCP)-6F42C1?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/🕸️_Knowledge_Graphs-238636?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔄_Autonomous_Workflows-E34C26?style=for-the-badge" />
 
 </div>
 
