@@ -1,312 +1,207 @@
 <!-- ===================================================== -->
-<!--               GANESH CHANDAK • PROFILE                 -->
+<!--                  GANESH CHANDAK                       -->
 <!-- ===================================================== -->
 
 <div align="center">
 
 # Hi, I'm Ganesh 👋
 
-### Building AI systems that eliminate operational work.
+### Building products that make operational work disappear.
 
-*"The best software isn't the one people use the most. It's the one they eventually don't notice because the work disappeared."*
+**Analytics Engineer • AI Builder • Startup Founder**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=900&lines=AI+Builder;Analytics+Engineer;Product+Thinker;Startup+Founder;Building+Operational+AI;Turning+Chaos+into+Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Kairo;Operational+AI;Automation+Enthusiast;Product+Engineer;Always+Shipping" />
 
-<p>
+<br/>
 
-<img src="https://img.shields.io/badge/AI-Agents-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/BigQuery-Analytics-4285F4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Flutter-Mobile-42A5F5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Python-Developer-yellow?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQL-Everywhere-orange?style=for-the-badge"/>
-
-</p>
+<img src="https://img.shields.io/badge/Currently-Building%20Kairo-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-India-238636?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-orange?style=for-the-badge" />
 
 </div>
 
 ---
 
-# Who am I?
+## About
 
-I'm an engineer obsessed with one question:
+I'm fascinated by one simple idea:
 
-> **"Why are humans still doing work that software should already have eliminated?"**
+> **Every repetitive business process eventually deserves to become software.**
 
-I enjoy building products that connect scattered information,
-understand context,
-reason through problems,
-and automate operations end-to-end.
-
-Most of my work combines
-
-- 🤖 Artificial Intelligence
-- 📊 Data
-- ⚙️ Automation
-- 📱 Product Engineering
-- 🏦 FinTech
+I enjoy building products that combine AI, analytics and automation to solve operational problems—from investigating metrics to extracting knowledge from documents or automating recruiting workflows.
 
 ---
 
-# What I'm Building
+# 🚀 Current Products
 
-## 🧠 Kairo
+<table>
+<tr>
+<td width="50%">
 
-> Operational AI for modern companies.
+### 🧠 Kairo
 
-Imagine asking
+Operational AI for business teams.
 
-> "Why did customer refunds increase yesterday?"
+Instead of opening SQL, Slack, dashboards and documents separately...
 
-instead of opening
+Kairo investigates, reasons and answers.
 
-- SQL
-- Slack
-- Dashboards
-- Tickets
-- Docs
-- Sheets
+**Status:** 🚧 Building
 
-Kairo connects everything and reasons across it.
+</td>
 
-Instead of searching information,
-it performs investigations.
+<td width="50%">
 
----
+### 📷 Visuale
 
-## 👥 Candidate Finder AI
+AI-powered visual notebook.
 
-An autonomous recruiting workflow.
+Capture screenshots.
 
-Input:
+Search them forever.
 
-```
-Senior Backend Engineer
-Bangalore
-5+ Years
-```
+No manual organization required.
 
-Output:
+</td>
+</tr>
 
-```
-✔ Finds candidates
-✔ Scores relevance
-✔ Generates summaries
-✔ Sends reports
-✔ Saves recruiter hours
-```
+<tr>
+<td>
 
----
+### 👥 Candidate Finder
 
-## 📈 Credit Card Statement Analyzer
+Autonomous recruiting workflow.
 
-Converts boring PDFs into meaningful financial insights.
+Google Form
 
-Features
+⬇️
 
-- merchant categorization
-- spending trends
-- monthly comparisons
-- AI summaries
-- interactive dashboard
+AI Search
 
----
+⬇️
 
-## 📷 Visuale
+Candidate Ranking
 
-An AI-powered visual notebook.
+⬇️
 
-Take a screenshot.
+Excel Report
 
-Forget about organizing.
+</td>
 
-Visuale automatically generates
+<td>
 
-- title
-- description
-- tags
-- searchable knowledge
+### 💳 Card Analyzer
+
+Turns credit card statements into insights.
+
+• Spending Trends
+
+• Merchant Analysis
+
+• AI Summaries
+
+• Interactive Dashboard
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-## 🤖 Automation Projects
+# ⚡ What I Like Building
 
-- Telegram bots
-- WhatsApp workflows
-- AI agents
-- Data pipelines
-- Internal tools
-- Workflow automation
-
----
-
-# Things I Like Solving
-
-```
-Messy Processes
+```text
+Messy Operations
         │
         ▼
-Data Everywhere
+Multiple Data Sources
         │
         ▼
-Understand Context
+Context & Reasoning
         │
         ▼
-AI Reasoning
+AI Agents
         │
         ▼
 Automation
         │
         ▼
-No Human Needed
+Less Manual Work
 ```
 
 ---
 
-# Tech Stack
-
-### Languages
-
-```
-Python
-SQL
-Dart
-JavaScript
-Java
-```
+# 🛠 Engineering Toolkit
 
 ### AI
 
-```
-OpenAI
-LangChain
-LangGraph
-Ollama
-Prompt Engineering
-AI Agents
-MCP
-```
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-6F42C1?style=flat-square"/>
+</p>
 
-### Data
+### Data & Analytics
 
-```
-BigQuery
-PySpark
-Pandas
-SQLite
-Firestore
-Google Sheets
-```
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,mysql,sqlite"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square"/>
+</p>
 
 ### Backend
 
-```
-FastAPI
-Flask
-Firebase
-REST APIs
-Airflow
-```
+<p>
+<img src="https://skillicons.dev/icons?i=python,firebase,docker"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square"/>
+</p>
 
 ### Mobile
 
-```
-Flutter
-Riverpod
-Drift
-```
-
----
-
-# Current Obsessions
-
-- Multi-Agent Systems
-- Knowledge Graphs
-- LLM Memory
-- Workflow Automation
-- AI Infrastructure
-- Product Thinking
-
----
-
-# Engineering Philosophy
-
-```
-Don't automate clicks.
-
-Automate decisions.
-
-Don't build dashboards.
-
-Build systems that answer questions.
-
-Don't replace humans.
-
-Replace repetitive work.
-```
-
----
-
-# Current Mission
-
-```
-Mission:
-Build AI products that save
-millions of hours of repetitive work.
-```
-
----
-
-# GitHub Activity
-
-<div align="center">
-
-> I don't measure engineering by commit streaks.
-
-> I measure it by problems solved.
-
-</div>
-
----
-
-# Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
+<img src="https://img.shields.io/badge/Riverpod-4C8BF5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Drift-0175C2?style=flat-square"/>
 </p>
 
 ---
 
-# Fun Fact
+# 📌 Currently Exploring
 
-```python
-while True:
+- Multi-Agent Systems
+- AI Memory
+- MCP Ecosystem
+- Knowledge Graphs
+- Autonomous Workflows
 
-    problem = find_repetitive_work()
+---
 
-    if problem:
+# 🧭 Philosophy
 
-        build_ai(problem)
+> Build software that removes work—not software that creates more dashboards.
 
-    else:
+---
 
-        learn_something_new()
-```
+# 💡 A Few Things About Me
+
+- I enjoy turning business problems into products.
+- Most of my ideas start with *"Why is someone still doing this manually?"*
+- I care as much about user experience as system architecture.
+- I believe great products eliminate complexity instead of hiding it.
 
 ---
 
 <div align="center">
 
-## Thanks for visiting!
+### Thanks for stopping by!
 
-If you're interested in AI, automation, product engineering,
-or building things that shouldn't require humans anymore—
-
-I'd love to connect.
+Building AI products • Learning continuously • Shipping relentlessly
 
 </div>
