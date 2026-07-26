@@ -228,8 +228,7 @@ Most business problems aren't actually hard. They're just spread across too many
 <a href="https://github.com/ganesh-chandak">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<br/><br/>
-
+<br/>
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=ganesh-chandak&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS) -->
 
 </div>
@@ -241,7 +240,6 @@ Most business problems aren't actually hard. They're just spread across too many
 ### Thanks for stopping by!
 
 **Building AI products • Learning continuously • Shipping relentlessly**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1F6FEB,100:58A6FF&height=120&section=footer" width="100%"/>
 
 </div>
